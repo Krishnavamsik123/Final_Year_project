@@ -1,0 +1,43 @@
+Automated Emerging Cyber Threat Identification and Profiling Based on Natural Language Processing
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:16.June.2023
+
+
+Cyber threat discovery, cyber threat profiling, emerging threats, machine learning,
+NLP, OSINT.
+
+
+Automated_Emerging_Cyber_Threat_Identification
+
+
+
+automated_emerging_cyber_threat_identification
+
+
+
+cyber_threat_identification
+
+
+
+
+
+fid	
+tweet_text	
+timestamp	
+source	
+symbols	
+company_names	
+url	
+source_ip	
+protocol	
+dest_ip
+Prediction
+
+
+ pip install mysqlclient
+ pip install django==3.2.10
+ pip install nltk
+ pip install xlwt
+ import nltk
+nltk.download()
